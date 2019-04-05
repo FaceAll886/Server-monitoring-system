@@ -1,0 +1,31 @@
+Server_Ip=172.20.10.2
+Server_Port=8731
+Client_Port=10004
+Ctrl_Port=9000
+Msg_Port=8517
+User_Name=zhy
+HostName=faceall
+Log_File=./log
+From=172.20.10.1
+To=172.20.10.100
+INS=5
+WriteEveryTime=5
+Interaction=10
+MaxTimes=10
+Backfile=../log
+Udp_Port=8888
+Max_Client=10000
+File_Max=314550    
+master_log=./master_journal
+client_log=./client_journal
+Src100=../script/CpuLog.sh
+Src101=../script/MemLog.sh
+Src102=../script/DiskLog.sh
+Src103=../script/ProcLog.sh
+Src104=../script/SysInfo.sh
+Src105=../script/Users.sh
+
+分布式监控系统
+gcc master.c common.c -L/usr/bin/mysql -I/usr/include/mysql -lmysqlclient -lz -lpthread
+netstat -alnt 
+lsof 

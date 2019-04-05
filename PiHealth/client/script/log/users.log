@@ -1,0 +1,129 @@
+2018-01-19__11:35:12  [uftp,pi,hjq] [pi,Failed_with_perm] [hjq_192.168.1.166_pts/0,hjq_192.168.1.166_pts/1,pi_192.168.1.10_pts/2]
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.6  27064  6012 ?        Ss   Jan24   0:05 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    Jan24   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Jan24   0:01 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   Jan24   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S    Jan24   0:08 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    Jan24   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S    Jan24   0:00 [migration/0]
+root        10  0.0  0.0      0     0 ?        S<   Jan24   0:00 [lru-add-drain]
+root        11  0.0  0.0      0     0 ?        S    Jan24   0:00 [cpuhp/0]
+root        12  0.0  0.0      0     0 ?        S    Jan24   0:00 [cpuhp/1]
+root        13  0.0  0.0      0     0 ?        S    Jan24   0:00 [migration/1]
+root        14  0.0  0.0      0     0 ?        S    Jan24   0:03 [ksoftirqd/1]
+root        16  0.0  0.0      0     0 ?        S<   Jan24   0:00 [kworker/1:0H]
+root        17  0.0  0.0      0     0 ?        S    Jan24   0:00 [cpuhp/2]
+root        18  0.0  0.0      0     0 ?        S    Jan24   0:00 [migration/2]
+root        19  0.0  0.0      0     0 ?        S    Jan24   0:00 [ksoftirqd/2]
+root        21  0.0  0.0      0     0 ?        S<   Jan24   0:00 [kworker/2:0H]
+root        22  0.0  0.0      0     0 ?        S    Jan24   0:00 [cpuhp/3]
+root        23  0.0  0.0      0     0 ?        S    Jan24   0:00 [migration/3]
+root        24  0.0  0.0      0     0 ?        S    Jan24   0:00 [ksoftirqd/3]
+root        26  0.0  0.0      0     0 ?        S<   Jan24   0:00 [kworker/3:0H]
+root        27  0.0  0.0      0     0 ?        S    Jan24   0:00 [kdevtmpfs]
+root        28  0.0  0.0      0     0 ?        S<   Jan24   0:00 [netns]
+root        29  0.0  0.0      0     0 ?        S    Jan24   0:00 [khungtaskd]
+root        30  0.0  0.0      0     0 ?        S    Jan24   0:00 [oom_reaper]
+root        31  0.0  0.0      0     0 ?        S<   Jan24   0:00 [writeback]
+root        32  0.0  0.0      0     0 ?        S    Jan24   0:00 [kcompactd0]
+root        33  0.0  0.0      0     0 ?        S<   Jan24   0:00 [crypto]
+root        34  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        35  0.0  0.0      0     0 ?        S<   Jan24   0:00 [kblockd]
+root        36  0.0  0.0      0     0 ?        S<   Jan24   0:00 [watchdogd]
+root        38  0.0  0.0      0     0 ?        S<   Jan24   0:00 [rpciod]
+root        39  0.0  0.0      0     0 ?        S<   Jan24   0:00 [xprtiod]
+root        40  0.0  0.0      0     0 ?        S    Jan24   0:00 [kswapd0]
+root        41  0.0  0.0      0     0 ?        S<   Jan24   0:00 [vmstat]
+root        42  0.0  0.0      0     0 ?        S<   Jan24   0:00 [nfsiod]
+root        52  0.0  0.0      0     0 ?        S<   Jan24   0:00 [kthrotld]
+root        53  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        54  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        55  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        56  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        57  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        58  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        59  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        60  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        61  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        62  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        63  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        64  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        65  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        66  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        67  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        68  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        69  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        70  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        71  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        72  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        73  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        74  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        75  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        76  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        77  0.0  0.0      0     0 ?        S<   Jan24   0:00 [iscsi_eh]
+root        78  0.0  0.0      0     0 ?        S<   Jan24   0:00 [dwc_otg]
+root        80  0.0  0.0      0     0 ?        S<   Jan24   0:00 [DWC Notificatio]
+root        81  0.0  0.0      0     0 ?        S<   Jan24   0:00 [VCHIQ-0]
+root        82  0.0  0.0      0     0 ?        S<   Jan24   0:00 [VCHIQr-0]
+root        83  0.0  0.0      0     0 ?        S<   Jan24   0:00 [VCHIQs-0]
+root        84  0.0  0.0      0     0 ?        S    Jan24   0:00 [VCHIQka-0]
+root        85  0.0  0.0      0     0 ?        S<   Jan24   0:00 [SMIO]
+root        87  0.0  0.0      0     0 ?        S    Jan24   0:55 [irq/92-mmc1]
+root        91  0.0  0.0      0     0 ?        S<   Jan24   0:00 [bioset]
+root        92  0.0  0.0      0     0 ?        S    Jan24   0:02 [mmcqd/0]
+root        94  0.0  0.0      0     0 ?        S    Jan24   0:01 [jbd2/mmcblk0p2-]
+root        95  0.0  0.0      0     0 ?        S<   Jan24   0:00 [ext4-rsv-conver]
+root        96  0.0  0.0      0     0 ?        S<   Jan24   0:00 [ipv6_addrconf]
+root       128  0.0  0.4  29168  4144 ?        Ss   Jan24   0:10 /lib/systemd/systemd-journald
+root       155  0.0  0.3  14436  3244 ?        Ss   Jan24   0:01 /lib/systemd/systemd-udevd
+root       247  0.0  0.0      0     0 ?        S<   Jan24   0:00 [cfg80211]
+root       249  0.0  0.0      0     0 ?        S<   Jan24   0:00 [brcmf_wq/mmc1:0]
+root       251  0.0  0.0      0     0 ?        S    Jan24   0:13 [brcmf_wdog/mmc1]
+systemd+   291  0.0  0.3  17276  3552 ?        Ssl  Jan24   0:00 /lib/systemd/systemd-timesyncd
+message+   333  0.0  0.3   6500  3472 ?        Ss   Jan24   0:01 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+nobody     369  0.0  0.2   5288  2440 ?        Ss   Jan24   0:01 /usr/sbin/thd --triggers /etc/triggerhappy/triggers.d/ --socket /run/thd.socket --user nobody --deviceglob /dev/input/event*
+avahi      370  0.0  0.3   6524  3228 ?        Ss   Jan24   0:37 avahi-daemon: running [pi2.local]
+root       377  0.0  0.2   5316  2488 ?        Ss   Jan24   0:00 /usr/sbin/cron -f
+root       383  0.0  0.2  23744  2416 ?        Ssl  Jan24   0:01 /usr/sbin/rsyslogd -n
+root       384  0.0  0.4   7404  4128 ?        Ss   Jan24   0:00 /lib/systemd/systemd-logind
+avahi      389  0.0  0.1   6396  1556 ?        S    Jan24   0:00 avahi-daemon: chroot helper
+root       487  0.0  0.2  10020  2112 ?        Ss   Jan24   1:28 wpa_supplicant -Dwext -i wlan0 -c /etc/wpa_supplicant/wpa_supplicant.conf -B
+root       523  0.0  0.0      0     0 ?        S<   Jan24   0:00 [kworker/u9:0]
+root       524  0.0  0.0      0     0 ?        S<   Jan24   0:00 [hci0]
+root       525  0.0  0.0      0     0 ?        S<   Jan24   0:00 [hci0]
+root       526  0.0  0.0   2092   132 ?        S    Jan24   0:00 /usr/bin/hciattach /dev/serial1 bcm43xx 921600 noflow - b8:27:eb:00:72:35
+root       530  0.0  0.0      0     0 ?        S<   Jan24   0:00 [kworker/u9:2]
+root       539  0.0  0.3   7068  3380 ?        Ss   Jan24   0:00 /usr/lib/bluetooth/bluetoothd
+root       578  0.0  0.0      0     0 ?        S<   Jan24   0:00 [kworker/0:1H]
+root       579  0.0  0.0      0     0 ?        S<   Jan24   0:00 [kworker/1:1H]
+root       580  0.0  0.0      0     0 ?        S<   Jan24   0:00 [kworker/2:1H]
+root       581  0.0  0.0      0     0 ?        S<   Jan24   0:00 [kworker/3:1H]
+root       589  0.0  0.2   6636  2228 ?        Ss   Jan24   0:01 /sbin/dhclient -4 -v -pf /run/dhclient.wlan0.pid -lf /var/lib/dhcp/dhclient.wlan0.leases -I -df /var/lib/dhcp/dhclient6.wlan0.leases wlan0
+root       642  0.0  0.5  10196  5348 ?        Ss   Jan24   0:00 /usr/sbin/sshd -D
+root       644  0.4  3.2 947564 30844 ?        Ssl  Jan24  12:19 /usr/bin/dockerd -H fd://
+root       660  0.0  0.1   4668  1692 ?        Ss   Jan24   0:00 /usr/sbin/vsftpd /etc/vsftpd.conf
+root       676  0.0  0.1   4192  1408 tty1     Ss+  Jan24   0:00 /sbin/agetty --noclear tty1 linux
+root       709  0.3  0.8 912744  8068 ?        Ssl  Jan24   8:39 docker-containerd -l unix:///var/run/docker/libcontainerd/docker-containerd.sock --metrics-interval=0 --start-timeout 2m --state-dir /var/run/docker/libcontainerd/containerd --shim docker-containerd-shim --runtime docker-runc
+root      1054  0.0  1.1  46720 11184 ?        Ssl  Jan24   0:01 /usr/lib/packagekit/packagekitd
+root      1074  0.0  0.6  37616  5792 ?        Ssl  Jan24   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root      1177  0.0  0.0      0     0 ?        S    Jan24   0:00 [kworker/3:0]
+root      8120  0.0  0.0      0     0 ?        S    02:58   0:00 [kworker/3:3]
+root      9815  0.0  0.0      0     0 ?        S    09:19   0:00 [kworker/2:0]
+pi        9849  0.0  0.5   9656  4860 ?        Ss   09:21   0:00 /lib/systemd/systemd --user
+pi        9852  0.0  0.1  28728  1380 ?        S    09:21   0:00 (sd-pam)
+root     10102  0.0  0.0      0     0 ?        S    09:29   0:07 [kworker/0:0]
+pi       10329  0.0  0.4   9020  4448 ?        S    09:30   0:00 ssh -x -a -oClearAllForwardings=yes -2 pi@Pi1 -s sftp
+pi       10331  0.0  0.0  50588   260 ?        Ssl  09:30   0:00 sshfs pi@Pi1:/home/pi/PiHealth client
+root     10859  0.0  0.0      0     0 ?        S    11:51   0:00 [kworker/2:1]
+root     10969  0.0  0.0      0     0 ?        S    12:21   0:00 [kworker/0:1]
+root     10999  0.0  0.0      0     0 ?        S    12:32   0:00 [kworker/1:2]
+root     11019  0.0  0.0      0     0 ?        S    12:40   0:00 [kworker/u8:0]
+root     11020  0.0  0.0      0     0 ?        S    12:42   0:00 [kworker/1:0]
+root     11030  0.0  0.0      0     0 ?        S    12:45   0:00 [kworker/u8:1]
+root     11039  0.0  0.0      0     0 ?        S    12:48   0:00 [kworker/1:1]
+root     11040  0.0  0.0      0     0 ?        S    12:50   0:00 [kworker/u8:2]
+root     11049  0.2  0.6  11516  5804 ?        Ss   12:52   0:00 sshd: pi [priv]
+pi       11058  0.0  0.3  11516  3440 ?        S    12:52   0:00 sshd: pi@pts/0
+pi       11061  1.5  0.4   6036  4228 pts/0    Ss   12:52   0:00 -bash
+pi       11121  0.0  0.3   7704  2888 pts/0    R+   12:52   0:00 ps -aux
