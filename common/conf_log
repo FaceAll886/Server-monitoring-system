@@ -1,4 +1,4 @@
-Server_Ip=172.20.10.2
+Server_Ip=192.168.2.101
 Server_Port=8731
 Client_Port=10004
 Ctrl_Port=9000
@@ -6,8 +6,8 @@ Msg_Port=8517
 User_Name=zhy
 HostName=faceall
 Log_File=./log
-From=172.20.10.1
-To=172.20.10.100
+From=192.168.1.30
+To=192.168.2.120
 INS=5
 WriteEveryTime=5
 Interaction=10
